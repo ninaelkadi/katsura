@@ -28,8 +28,8 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Katsura Rikyu" 
+       description="Photograph of Katsura Rikyu" 
        license="public domain" 
        url="katsura1.jpeg"
        region="1057,432,1037,1168">
