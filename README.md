@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0c/Katsura_Rikyu_%283263863817%29.jpg">
+       url="katsura1.jpeg">
 
 ## Map
 
