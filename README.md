@@ -49,5 +49,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <param ve-iframe src="https://archive.org/details/holyokedailytran00ally/page/n24/mode/2up?=viewtheater&output=embed
 ">
 
+### Adding a Timeline
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-knightlab-timeline
+source="1gardAmWdt_gLQS8Ds9bwvDKfauHZq5JKI_PdvtNEkHk"
+timenav-position="bottom"
+hash-bookmark="false”
+initial-zoom="1"
+height="750">
+![image](https://user-images.githubusercontent.com/122308380/212962812-8fcdd58e-ec60-46d9-939c-c180724f8e2d.png)
+
 # References
 
