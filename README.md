@@ -1,10 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Katsura Tree"
+       title="Cercidiphyllum japonicum: T"
        author="Abner Aldarondo"
-      banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg" 
-       layout="vertical">
+       banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg" 
+       layout="vertical"
+       description="[INSERT TEXT HERE]">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -14,13 +15,11 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+### Introduction
 
-## Image
+This paragraph 
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+This paragraph to talk about 
 <param ve-image 
        label="Katsura Rikyu" 
        description="Photograph of Katsura Rikyu" 
@@ -28,13 +27,16 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        url="katsura1.jpeg"
        region="1057,432,1037,1168">
 
-## Map
+### The living fossil
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+Katsura horticultural information here. Last sentence to transition into "fossil" idea... 
+
+The katsura's scientific name, Cercidiphyllum, "refers to  the close resemblance of the leaves to those of Cercis (redbuds)." Japonicum refers to the fact that this tree was thought to have been introduced from Japan. The fact of the matter is that the katsura can be found throughout East Asia, in China, Japan, Korea, . If we look back even further into the fossil record, we learn that the katsura tree existed in North America and Europe during the BLANK era BLANK years ago. (more information here about this)... The katsura can be considered a living fossil because... 
+
+This paragraph to include either a map of where katsura trees are located or a picture of a katsura fossil (possible compare?) 
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
+### 
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
@@ -50,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ">
 
 ### Adding a Timeline
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 <param ve-knightlab-timeline
 source="1gardAmWdt_gLQS8Ds9bwvDKfauHZq5JKI_PdvtNEkHk"
 timenav-position="bottom"
