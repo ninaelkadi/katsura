@@ -15,11 +15,9 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-### Introduction
+### Dumbarton Oaks' Katsura
 
-This paragraph 
-
-This paragraph to talk about 
+One of the oldest katsura trees (Cercidiphyllum japonicum) in North America lives in the gardens of Dumbarton Oaks. Today you can see the sprawling octopus-like katsura behind the R Street Façade, right by the entrance gate, lunging toward the East Lawn with its long-limbed branches that swoop down, out, and then upwards. Beatrix Farrand, the garden landscape architect who designed the gardens, noted in her Plant Book for Dumbarton Oaks that the katsura was growing exactly where it stands today on the East Lawn when Robert and Mildred Bliss bought the property.
 <param ve-image 
        label="Katsura Rikyu" 
        description="Photograph of Katsura Rikyu" 
