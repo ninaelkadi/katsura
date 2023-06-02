@@ -6,26 +6,19 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg" 
        layout="vertical"
        description="[INSERT TEXT HERE]">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-<param ve-entity eid="Q437714">
-
 ### Dumbarton Oaks' Katsura
 
 One of the oldest katsura trees (<span eid="Q526549">_Cercidiphyllum japonicum_)</span> in North America lives in the gardens of <span eid="Q1264942">Dumbarton Oaks</span>. Today you can see the sprawling octopus-like katsura behind the R Street Façade, right by the entrance gate, lunging toward the East Lawn with its long-limbed branches that swoop down, out, and then upwards. <span eid="Q437714">Beatrix Farrand</span>, the garden landscape architect who designed the gardens, noted in her _Plant Book for Dumbarton Oaks_ that the katsura was growing exactly where it stands today on the East Lawn when Robert and Mildred Bliss bought the property.[^ref1]
 <param ve-image 
        label="Dumbarton Oaks' katsura tree." 
        fit="fill"
-       url="KatsuraDO.jpg">
+       url="KatsuraDO.JPG">
 
 And how exactly did it get there? This essay is an attempt to answer that question and paint a portrait of the katsura as a species throughout time. One tree’s story opens a world of possibility. For one, old trees are contemporaneous with historic events, allowing us to tell their story and how the world around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our culture is influenced by our interaction with them. Despite <span eid="Q60772055">plant blindness</span> associated with a society distant from them, they are nonetheless central to our lives. For example, historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States' nation-building from the colonial period to today. This biography looks at disparate moments of time in which katsura appears—million years ago when dinosaurs roamed the Earth, poetic images a millennium after the common era, two hundred years ago during the United Sates’ horticultural boom, and Dumbarton Oaks’ katsura today.
-
+<param ve-image
+       label=""
+       fit="fill"
+       url="">
 ### The Japanese Judas Tree 
 
 Katsura belongs to the genus <span eid="Q858028">_Cercidiphyllum_</span> and is one of two species that belong to it, the other being _Cercidiphyllum magnificum_. The genus refers to the fact that these two species of trees have heart-shaped leaves similar to the Judas tree (<span eid="Q29488">_Cercis siliquastrum_</span>). Samuel B. Parsons’ Kissena Nursery in Flushing was probably the first commercial nursery to sell katsuras in the United States, and one of the nursery’s descriptive catalogs compares the katsura’s trees to a Judas tree.[^ref2] When _Cercidiphyllum japonicum_ sheds its leaves in the fall, its yellow and orange leaves decompose and release the chemical maltol into the air leaving a sweet smell. Farrand accounted for the katsura’s deciduous quality in her design of Dumbarton Oaks' East Lawn, adding plants that brought out its beauty and provided “additional evergreen screen” when the tree had no leaves.[^ref3] You can find flowers on the katsura in the springtime, though they do not have much ornamental value since they do not have petals. Katsura is a dioecious tree, meaning that individual trees produce either  male or female flowers. The male flowers are purple-red while the female flowers are yellow-green. Dumbarton Oaks’ katsura is a male—one slight sway in the tree’s branches and pollen flies all over. 
