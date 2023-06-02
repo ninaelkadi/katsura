@@ -33,8 +33,6 @@ Its species name _japonicum_ refers to how katsura is native to Japan, though it
 
 _Cercidiphyllum_ is an ancient genus. Fossil plants resembling _Cercidiphyllum_ leaves appeared in the mid-<span eid="Q44626">Cretaceous</span> period. It was widespread in the Northern Hemisphere during the Late Cretaceous and Early Cenozoic periods.[^ref4] For the most part, _Cercidiphyllum_ has remained largely unchanged—we might even call it a <span eid="Q187419">living fossil</span>. Charles Darwin coined the term "living fossils" to refer to species that have survived for millions of years with little morphological change. Aside from changing very little over long periods of time, they also have distribution <span eid="Q4257161">ranges</span> that are more restricted than in the geologic past. This is to say that these plants can be found in the geological records across many places, though today they are generally locally existing to a smaller range.[^ref5] During the later Cenozoic period, _Cercidyphullum_ experienced regional extinction and its range is now restricted to East Asia.[^ref6] Today, the plant is grown widely across the regions in which it was originally extinct as an ornamental, returning to where it once grew millions of years ago.
 
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
 ### Poetic Traditions Inspire Imperial Villa (17C)
 
 Katsura carries a strong association with the moon in Japanese poetry. The ‘katsura of the moon’ is a poetic image with Chinese roots used well before the <span eid="Q193292">Heian</span> period. Katsura is associated with the harvest moon when you can most clearly see its shadow in the moon’s center.[^ref7] The oldest extant _Man'yōshū_, a collection of Classical Japanese Poetry compiled sometime after 759, is the _Katsura-bon_ whose name comes from being in the possession of the imperial Hachijō-no-miya family. <span eid="Q850601">Prince Hachijō-no-miya Toshihito</span> built the <span eid="Q1736808">Katsura Imperial Villa</span>, an estate known for evoking the literary tradition of the katsura of the moon with its architectural features.
@@ -81,27 +79,6 @@ _Hoozue_ tends to be single poles with a cross piece at the top, resembling a <s
 ### Conclusion 
 
 We don’t tend to think much of trees as social actors. They are, after all, immobile and thus appear to be nonpredatory. But, if we calibrate our attention to their temporal and spatial scales, we get a complicated history of a tree across different times and places. It also complicates the notion of a historic garden, in particular, the one at Dumbarton Oaks. It is a historic garden designed by Beatrix Farrand—historic in the sense that yes, Farrand designed a beautiful garden, but the land in which she laid out her vision had a particular history that superseded her. The landscape was not a _tabula rasa_, an empty land upon which Farrand then engraved her design. The katsura is a case in point in how landscapes are constantly changing, and the various organisms that live on them change. But perhaps more interestingly is the power of trees: we move them across seas for their beauty-and plant them where their ancestors once sat before. 
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-## Primary source 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<param ve-iframe src="https://archive.org/details/holyokedailytran00ally/page/n24/mode/2up?=viewtheater&output=embed">
-
-### Adding a Timeline
-
-<param ve-knightlab-timeline
-source="1gardAmWdt_gLQS8Ds9bwvDKfauHZq5JKI_PdvtNEkHk"
-timenav-position="bottom"
-hash-bookmark="false”
-initial-zoom="1"
-height="750">
 
 # References
 [^ref1]: Diane Kostial McGuire, ed.,  _Beatrix Farrand’s Plant Book for Dumbarton Oaks_ (Washington, DC: Dumbarton Oaks, Trustees for Harvard University, 1980), 19. 
