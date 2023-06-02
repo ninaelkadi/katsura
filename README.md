@@ -18,7 +18,7 @@
 
 ### Dumbarton Oaks' Katsura
 
-One of the oldest katsura trees (_Cercidiphyllum japonicum_) in North America lives in the gardens of <span eid="Q1264942">Dumbarton Oaks</span>. Today you can see the sprawling octopus-like katsura behind the R Street Façade, right by the entrance gate, lunging toward the East Lawn with its long-limbed branches that swoop down, out, and then upwards. <span eid="Q437714">Beatrix Farrand</span>, the garden landscape architect who designed the gardens, noted in her Plant Book for Dumbarton Oaks that the katsura was growing exactly where it stands today on the East Lawn when Robert and Mildred Bliss bought the property.[^ref1]
+One of the oldest katsura trees (_Cercidiphyllum japonicum_) in North America lives in the gardens of <span eid="Q1264942">Dumbarton Oaks</span>. Today you can see the sprawling octopus-like katsura behind the R Street Façade, right by the entrance gate, lunging toward the East Lawn with its long-limbed branches that swoop down, out, and then upwards. <span eid="Q437714">Beatrix Farrand</span>, the garden landscape architect who designed the gardens, noted in her _Plant Book for Dumbarton Oaks_ that the katsura was growing exactly where it stands today on the East Lawn when Robert and Mildred Bliss bought the property.[^ref1]
 
 <param ve-image 
        label="Katsura Rikyu" 
@@ -27,7 +27,7 @@ One of the oldest katsura trees (_Cercidiphyllum japonicum_) in North America li
        url="katsura1.jpeg"
        region="1057,432,1037,1168">
 
-And how exactly did it get there? This essay is an attempt to answer that question and paint of portrait of the katsura’s story. One tree’s story opens a world of possibility. For one, old trees are contemporaneous with historic events, allowing us to tell their story and how the world around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our cultural practices are influenced by our interaction with them. Despite plant blindness associated with a society distant from them, they are nonetheless central to our lives. For example, historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States from the colonial period to today. The biography below looks at disparate moments of time in which katsura appears—million years ago when dinosaurs roamed the Earth, poetic images a millennium after the common era, two hundred years ago during the United Sates’ horticultural boom, and Dumbarton Oaks’ katsura today.
+And how exactly did it get there? This essay is an attempt to answer that question and paint a portrait of the katsura throughout time.  One tree’s story opens a world of possibility. For one, old trees are contemporaneous with historic events, allowing us to tell their story and how the world around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our cultural practices are influenced by our interaction with them. Despite plant blindness associated with a society distant from them, they are nonetheless central to our lives. For example, historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States from the colonial period to today. The biography below looks at disparate moments of time in which katsura appears—million years ago when dinosaurs roamed the Earth, poetic images a millennium after the common era, two hundred years ago during the United Sates’ horticultural boom, and Dumbarton Oaks’ katsura today.
 
 ### The Japanese Judas Tree 
 
@@ -41,9 +41,9 @@ _Cercidiphyllum_ is an ancient genus. Fossil plants resembling _Cercidiphyllum_ 
 
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-### Poetic Traditions
+### Poetic Traditions Inspire Imperial Villa
 
-Katsura carries a strong association with the moon in Japanese poetry. The ‘katsura of moon’ is a poetic image with Chinese roots used well before the Heian period. Katsura is associated with the harvest moon when you can most clearly see its shadow in the moon’s center.[^ref7] The oldest extant _Man'yōshū_, a collection of Classical Japanese Poetry compiled sometime after 759, is the _Katsura-bon_ whose name comes from being in the possession of the imperial Hachijō-no-miya family. Prince Hachijō-no-miya Toshihito built the Katsura Imperial Villa, an estate known for evoking the literary tradition of the katsura of the moon with its architectural features.
+Katsura carries a strong association with the moon in Japanese poetry. The ‘katsura of the moon’ is a poetic image with Chinese roots used well before the <span eid="Q193292">Heian</span> period. Katsura is associated with the harvest moon when you can most clearly see its shadow in the moon’s center.[^ref7] The oldest extant _Man'yōshū_, a collection of Classical Japanese Poetry compiled sometime after 759, is the _Katsura-bon_ whose name comes from being in the possession of the imperial Hachijō-no-miya family. <span eid="Q850601">Prince Hachijō-no-miya Toshihito</span> built the <span eid="Q1736808">Katsura Imperial Villa</span>, an estate known for evoking the literary tradition of the katsura of the moon with its architectural features.
 
 ### Western Desire for Japanese Flora
 
