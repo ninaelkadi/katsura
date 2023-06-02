@@ -44,24 +44,39 @@ Katsura carries a strong association with the moon in Japanese poetry. The ‘ka
 A craze for trees and flowering plants from East Asia began in the mid-17th century, increased in the 18th and 19th centuries, and plateaued in the early 20th century. The desire for Eastern Asian flora was because of imperial botany, the "quest to bring the world’s vegetation home for the delectation of the overseers of empire”.[^ref8] Wealthy east coast Americans, too, sought out East Asian flora in the nineteenth century. By the mid-nineteenth century, the United States experienced an interest in trees and shrubs.[^ref9] Edward Magruder Linthicum, who owned Dumbarton Oaks between 1846 and 1869, too followed this horticultural interest amid the American horticultural boom of the mid-nineteenth century.  
 
 By the 1840s, Japanese flora reached the United States from Europe thanks to <span eid="Q77140">Philipp Franz von Siebold</span> who introduced some plants to Europe in 1829.[^ref10] Japan at the time had an <span eid="Q309310">isolationist</span> foreign policy. Once Matthew Perry negotiated the <span eid="Q771451">Treaty of Kanagawa</span> on March 31, 1854 after threatening military force against Japan, diplomatic relations between Japan and the United States were established. Japan then opened itself to the world. It showcased its flora, including the katsura in world fairs during the late nineteenth century.
+<param ve-image
+       label="Treaty of Kanagawa, in English March 31, 1854 Record Group 11 General Records of the United States Government"
+       url="https://www.archives.gov/files/exhibits/featured-documents/treaty-of-kanagawa/images/treaty-kanagawa-m.jpg">
 
 ### Edward Linthicum and Dumbarton Oaks' Garden (1860s)
 
 Dumbarton Oaks’ katsura was thought to have been planted under Linthicum. The idea came from the fact that he established the property’s gardens and had a business relationship with a local nursery. He hired J.H. Small, a renowned English gardener, in 1848 to design Dumbarton Oaks’ gardens with the labor of <span eid="Q12773225">enslaved</span> individuals.[^ref11] Linthicum also owned a hardware store, at what is today Wisconsin Avenue and M Street, where he sold trees and plants via a catalog from Joshua Peirce’s Linnaean Hill Nursery in Rock Creek Park.[^ref12] Peirce sold fruit and ornamental trees grown by persons he enslaved—in fact, he named William Beckett an invaluable part of his business in a petition for compensated emancipation under the <span eid="Q5283407">District of Columbia Emancipation Act</span>.[^ref13] A glance at the introduction of katsuras into the United States, however, undermines the assumption that the Dumbarton Oaks katsura was planted during Linthicum’s ownership.
+<param ve-image
+       label=""
+       url="https://chroniclingamerica.loc.gov/lccn/sn82015015/1841-03-25/ed-1/seq-3">
 
 ### Thomas Hogg Jr. Introduces Katsura to the United States (1860s-1870s)
 
 <span eid="Q21515943">Thomas Hogg Jr.</span>, whose father established one of New York City’s first nurseries, takes credit for introducing katsura. In an 1879 letter to _The Gardener’s Monthly and Horticulturalist_, Hogg Jr. denied botanist <span eid="Q1066128">Charles Sprague Sargent’s</span> claim that agricultural scientist <span eid="Q901202">William S. Clark</span> introduced katsura to the United States.[^ref14] President Abraham Lincoln appointed Hogg Jr. to the Japanese Consulate in Kanagawa in 1862. Hogg Jr. during his post, which he occupied until 1869, sent his brother James Hogg seeds of Japanese flora. He grew the plants his brother sent him in a private garden.[^ref15] In reference to Sargent visiting James’ garden after Thomas returned from his post in Japan, Hogg Jr. remarked that “it seems incredible that so remarkable a plant could have escaped the notice of so enthusiastic an admirer of trees.”[^ref16] 
+<param ve-iframe src="https://www.biodiversitylibrary.org/item/30501">
 
 Although Linthicum and Peirce are contemporaries of the Hogg brothers, Dumbarton Oaks’ katsura probably was not planted during the 1860s. Hogg Jr. introduced katsura to North America in either 1864 or 1865, and his brother James closed their family <span eid="Q155511">nursery</span> in 1867.[^ref17] James would not have been able to sell katsura at a commercial scale since knowledge of propagating and growing Japanese plants was scarce at the time. In fact, this article notes how “… probably because it was some years after its introduction before our nurserymen discovered how to propagate it rapidly by green cuttings, and seeds were difficult to obtain.”[^ref18] It was, for this reason, Hogg Jr. sent Samuel B. Parsons, another <span eid="Q1058775">Flushing</span> nurseryman, katsura seeds during his second trip to Japan in the 1870s since he had experience with propagating and growing Japanese plants.[^ref19] Parsons began to sell katsura in 1874 at one foot tall.[^ref20] Linthicum and Peirce also died in 1869, leaving a four or five-year span in which the two could have acquired the tree from the Hogg brothers. The Blount family, who introduced boxwood into the garden, bought the property in 1891 are the most likely candidates for having planted the katsura.
+<param ve-iframe src="https://www.biodiversitylibrary.org/item/160584">
 
 A 1922 <span eid="Q112127197">topographical survey</span> of Dumbarton Oaks gives the diameter of trees across the property, and an unnamed tree (simply referred to as “Tree”) is marked where the katsura should be.[^ref21] Trees are usually measured at a standard height, typically four-and-a-half feet, though this measurement might be a basal diameter since Dumbarton Oaks’ katsura branches quite low. It has a diameter of twenty inches, which would make it at least twenty to thirty years old if it grew happy and healthy.[^ref22] Dumbarton Oaks’ katsura is at least 120 years old—though, the age provided here is only a guess. Dating a tree with only a diameter is difficult without knowing the exact conditions in which the tree grew. Perhaps of interest is John Saul’s Washington Nursery, one of the District’s well-known nurserymen during his time, had started to sell katsura in 1895 and notes the tree being a “recent introduction.”[^ref23]
+<param ve-iframe src="https://iiif.lib.harvard.edu/manifests/ids:485971684">
 
 ### Kurato Master Gardener (2023)  
 
 In an effort to extend the lifespan of the katsura, Dumbarton Oaks invited Kurato Fujimoto, a Japanese master gardener, to use indigenous Japanese <span eid="Q48803">horticultural</span> practices on the tree. The technique primarily places _hoozue_, which literally translates to ‘chin cane,’ at the ends of branches to support growth at the extremities. _Hoozue_ essentially acts as a support that encourages branch growth—in turn, new leaves grow and create additional energy for the tree. Fujimoto has two guiding principles for placing a hoozue at the end of a branch: if it needs support or seems to be able to support additional leaf <span eid="Q2945560">biomass</span>. Once those branches are identified, the ground beneath them is marked with a stake or flag and afterwards the distance between them is measured. Then pole fabrication begins.  
+<param ve-image
+       label="Halfway point of hoozue installation."
+       url="installation.JPG">
 
 _Hoozue_ tends to be single poles with a cross piece at the top, resembling a <span eid="Q193387">croquet</span> mallet. Heavier branches, though, require two poles and a cross piece. Some _hoozue_ elgible branches are above another branch—in that case, a bridge made up of two poles with a long cross piece is installed instead of removing or penetrating the lower branch. The hoozue at Dumbarton Oaks is made out of the hard and durable <span eid="Q157417">_robinia pseudoacacia_</span> (black locust), though the poles are usually made out of <span eid="Q1330391">_thujopsis dolabrata_</span> (hiba arborvitae) in Japan. Ron Henderson, landscape architect and a collaborator of Fujimoto,  comments on the positive effect of hoozue: “We [Americans] have a bit of a naturalistic tendencies or wilderness tendencies or, you know, we don't coppice and hedge and show human alteration of plants quite as much as other cultures and this gives a different kind of evidence of care that many in North America are not used to seeing. And I think as a consequence, it's helped. It's helped some people see that we are, in fact, taking care of these living things.”[^ref24]
+<param ve-image
+       label="Left to right: single pole hoozue, bridge hoozue, and heavy support hoozue"
+       url="hoozue.jpeg">
 
 ### Conclusion 
 
@@ -77,8 +92,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<param ve-iframe src="https://archive.org/details/holyokedailytran00ally/page/n24/mode/2up?=viewtheater&output=embed
-">
+<param ve-iframe src="https://archive.org/details/holyokedailytran00ally/page/n24/mode/2up?=viewtheater&output=embed">
 
 ### Adding a Timeline
 
