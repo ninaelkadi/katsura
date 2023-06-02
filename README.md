@@ -6,6 +6,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/d/db/Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg" 
        layout="vertical"
        description="[INSERT TEXT HERE]">
+
 ### Dumbarton Oaks' Katsura
 
 One of the oldest katsura trees (<span eid="Q526549">_Cercidiphyllum japonicum_)</span> in North America lives in the gardens of <span eid="Q1264942">Dumbarton Oaks</span>. Today you can see the sprawling octopus-like katsura behind the R Street Façade, right by the entrance gate, lunging toward the East Lawn with its long-limbed branches that swoop down, out, and then upwards. <span eid="Q437714">Beatrix Farrand</span>, the garden landscape architect who designed the gardens, noted in her _Plant Book for Dumbarton Oaks_ that the katsura was growing exactly where it stands today on the East Lawn when Robert and Mildred Bliss bought the property.[^ref1]
