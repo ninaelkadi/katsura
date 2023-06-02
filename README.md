@@ -22,10 +22,8 @@ One of the oldest katsura trees (<span eid="Q526549">_Cercidiphyllum japonicum_)
 
 <param ve-image 
        label="Dumbarton Oaks' katsura tree." 
-       description="" 
-       license="" 
-       url="KatsuraDO.jpg"
-       region="1057,432,1037,1168">
+       fit="fill"
+       url="KatsuraDO.jpg">
 
 And how exactly did it get there? This essay is an attempt to answer that question and paint a portrait of the katsura as a species throughout time. One tree’s story opens a world of possibility. For one, old trees are contemporaneous with historic events, allowing us to tell their story and how the world around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our culture is influenced by our interaction with them. Despite <span eid="Q60772055">plant blindness</span> associated with a society distant from them, they are nonetheless central to our lives. For example, historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States' nation-building from the colonial period to today. This biography looks at disparate moments of time in which katsura appears—million years ago when dinosaurs roamed the Earth, poetic images a millennium after the common era, two hundred years ago during the United Sates’ horticultural boom, and Dumbarton Oaks’ katsura today.
 
