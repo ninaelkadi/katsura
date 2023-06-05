@@ -26,6 +26,9 @@ Katsura belongs to the genus <span eid="Q858028">_Cercidiphyllum_</span> and is 
 <param ve-compare manifest="https://iiif.juncture-digital.org/manifest/26108d03009f4dc15b2b9b22907f2deafa4b4237118f2d16f7af10c3cbf7a24e">
 
 When _Cercidiphyllum japonicum_ sheds its leaves in the fall, its yellow and orange leaves decompose and release the chemical maltol into the air leaving a sweet smell. Farrand accounted for the katsura’s deciduous quality in her design of Dumbarton Oaks' East Lawn, adding plants that brought out its beauty and provided “additional evergreen screen” when the tree had no leaves.[^ref4] You can find flowers on the katsura in the springtime, though they do not have much ornamental value since they do not have petals. Katsura is a dioecious tree, meaning that individual trees produce either  male or female flowers. The male flowers are purple-red while the female flowers are yellow-green. Dumbarton Oaks’ katsura is a male—one slight sway in the tree’s branches and pollen flies all over. 
+<param ve-image
+       label="_Cercidiphyllum obtritum_ leaf."
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Cercidiphyllum_obtritum_SRIC_SR_02-04-03_A_img1.jpg">
 <param ve-plant-specimen eid="Q526549"
        max="2">
 
