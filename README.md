@@ -22,12 +22,12 @@ And how exactly did it get there? This essay is an attempt to answer that questi
 ### The Japanese Judas Tree 
 
 Katsura belongs to the genus <span eid="Q858028">_Cercidiphyllum_</span> and is one of two species that belong to it, the other being _Cercidiphyllum magnificum_. The genus refers to the fact that these two species of trees have heart-shaped leaves similar to the Judas tree (<span eid="Q29488">_Cercis siliquastrum_</span>). Samuel B. Parsons’ Kissena Nursery in Flushing was probably the first commercial nursery to sell katsuras in the United States, and one of the nursery’s descriptive catalogs compares the katsura’s trees to a Judas tree.[^ref2] Its species name _japonicum_ refers to how katsura is native to Japan, though it is also locally existing to China. Katsura occurs in mountainous regions of Japan, and the tree’s light and soft wood is used in cabinetry and the interior finish of buildings. In Southern China, _Cercidiphyllum japonicum_ grows in mixed mesophytic forests of Southern China, disturbed and secondary mixed forests, and along bodies of water in the mountains.[^ref3] 
-<param ve-compare sync
-       region="full"
-       manifest="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cercis_Siliquastrum_leaves.JPG">
-<param ve-compare 
-       region="full"
-       manifest="https://upload.wikimedia.org/wikipedia/commons/a/ad/CercidiphyllumJaponicumLeaves.jpg">
+<param ve-image
+       title="Katsura leaf."
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ad/CercidiphyllumJaponicumLeaves.jpg">
+<param ve-image
+       title="Judas leaf."
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cercis_Siliquastrum_leaves.JPG">
 
 When _Cercidiphyllum japonicum_ sheds its leaves in the fall, its yellow and orange leaves decompose and release the chemical maltol into the air leaving a sweet smell. Farrand accounted for the katsura’s deciduous quality in her design of Dumbarton Oaks' East Lawn, adding plants that brought out its beauty and provided “additional evergreen screen” when the tree had no leaves.[^ref4] You can find flowers on the katsura in the springtime, though they do not have much ornamental value since they do not have petals. Katsura is a dioecious tree, meaning that individual trees produce either  male or female flowers. The male flowers are purple-red while the female flowers are yellow-green. Dumbarton Oaks’ katsura is a male—one slight sway in the tree’s branches and pollen flies all over. 
 <param ve-plant-specimen eid="Q526549"
