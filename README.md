@@ -68,7 +68,7 @@ Although Linthicum and Peirce are contemporaries of the Hogg brothers, Dumbarton
 <param ve-iframe src="https://www.biodiversitylibrary.org/item/160584">
 
 A 1922 <span eid="Q112127197">topographical survey</span> of Dumbarton Oaks gives the diameter of trees across the property, and an unnamed tree (simply referred to as “Tree”) is marked where the katsura should be.[^ref22] Trees are usually measured at a standard height, typically four-and-a-half feet, though this measurement might be a basal diameter since Dumbarton Oaks’ katsura branches quite low. It has a diameter of twenty inches, which would make it at least twenty to thirty years old if it grew happy and healthy.[^ref23] Dumbarton Oaks’ katsura is at least 120 years old—though, the age provided here is only a guess. Dating a tree with only a diameter is difficult without knowing the exact conditions in which the tree grew. Perhaps of interest is John Saul’s Washington Nursery, one of the District’s well-known nurserymen during his time, had started to sell katsura in 1895 and notes the tree being a “recent introduction.”[^ref24]
-<param ve-iframe src="https://iiif.lib.harvard.edu/manifests/ids:485971684">
+<param ve-iframe manifest="https://iiif.lib.harvard.edu/manifests/ids:485971684">
 
 ### Kurato Master Gardener (2023)  
 
