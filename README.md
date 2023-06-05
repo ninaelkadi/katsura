@@ -12,14 +12,12 @@
 One of the oldest katsura trees (<span eid="Q526549">_Cercidiphyllum japonicum_)</span> in North America lives in the gardens of <span eid="Q1264942">Dumbarton Oaks</span>. Today you can see the sprawling octopus-like katsura behind the R Street Façade, right by the entrance gate, lunging toward the East Lawn with its long-limbed branches that swoop down, out, and then upwards. <span eid="Q437714">Beatrix Farrand</span>, the garden landscape architect who designed the gardens, noted in her _Plant Book for Dumbarton Oaks_ that the katsura was growing exactly where it stands today on the East Lawn when Robert and Mildred Bliss bought the property.[^ref1]
 <param ve-image 
        label="Dumbarton Oaks' katsura tree."
-       fit="cover"
        url="https://github.com/abneralda/katsura/blob/main/KatsuraDO.JPG?raw=true">
 
-And how exactly did it get there? This essay is an attempt to answer that question and paint a portrait of the katsura as a species throughout time. One tree’s story opens a world of possibility. For one, old trees are contemporaneous with historic events, allowing us to tell their story and how the world around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our culture is influenced by our interaction with them. Despite <span eid="Q60772055">plant blindness</span> associated with a society distant from them, they are nonetheless central to our lives. For example, historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States' nation-building from the colonial period to today. This biography looks at disparate moments of time in which katsura appears—million years ago when dinosaurs roamed the Earth, poetic images a millennium after the common era, two hundred years ago during the United Sates’ horticultural boom, and Dumbarton Oaks’ katsura today.
+And how exactly did it get there? This essay is an attempt to answer that question and paint a portrait of the katsura as a species throughout time. This biography looks at disparate moments of time in which katsura appears—million years ago when dinosaurs roamed the Earth, poetic images a millennium after the common era, two hundred years ago during the United Sates’ horticultural boom, and Dumbarton Oaks’ katsura today.
 <param ve-image
-       label=""
-       fit="fill"
-       url="">
+       label="Close-up of the katsura tree."
+       url="https://github.com/abneralda/katsura/blob/main/closeup.jpeg?raw=true">
        
 ### The Japanese Judas Tree 
 
@@ -78,53 +76,30 @@ _Hoozue_ tends to be single poles with a cross piece at the top, resembling a <s
 
 ### Conclusion 
 
-We don’t tend to think much of trees as social actors. They are, after all, immobile and thus appear to be nonpredatory. But, if we calibrate our attention to their temporal and spatial scales, we get a complicated history of a tree across different times and places. It also complicates the notion of a historic garden, in particular, the one at Dumbarton Oaks. It is a historic garden designed by Beatrix Farrand—historic in the sense that yes, Farrand designed a beautiful garden, but the land in which she laid out her vision had a particular history that superseded her. The landscape was not a _tabula rasa_, an empty land upon which Farrand then engraved her design. The katsura is a case in point in how landscapes are constantly changing, and the various organisms that live on them change. But perhaps more interestingly is the power of trees: we move them across seas for their beauty-and plant them where their ancestors once sat before. 
+One tree’s story opens a web of different stories. Old trees, much like Dumbarton Oaks' katsura, are contemporaneous with historic events. And by telling their story we see how the around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our culture is influenced by our interaction with them. Despite <span eid="Q60772055">plant blindness</span> associated with a society distant from them, they are nonetheless central to our lives. Historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States' nation-building from the colonial period to today. If we calibrate our attention to the temporal and spatial scales of trees, we get a complicated history of a tree across different times and places. It also complicates the notion of a historic garden, in particular, the one at Dumbarton Oaks. It is a historic garden designed by Beatrix Farrand—historic in the sense that yes, Farrand designed a beautiful garden, but also historic in the sense that the land in which she laid out her vision had a particular history that superseded her. The landscape was not a _tabula rasa_, an empty land upon which Farrand then engraved her design. The katsura is a case in point in how landscapes are constantly changing, and the various organisms that live on them change. But perhaps more interestingly is the power of trees: we move them across seas for their beauty-and unknowingly plant them where their ancestors once sat before. 
+
 
 # References
 [^ref1]: Diane Kostial McGuire, ed.,  _Beatrix Farrand’s Plant Book for Dumbarton Oaks_ (Washington, DC: Dumbarton Oaks, Trustees for Harvard University, 1980), 19. 
-
-[^ref2]: Parsons & Sons Co. et al., _Descriptive Catalogue of Hardy Ornamental Trees, Flowering Shrubs and Vines : Including Rhododendrons, Roses, Magnolias, Chinese and Ghent Azaleas, Camellias, Japanese Maples and Other Rare and Choice Plants_ (Flushing, N.Y: Parsons & Sons Co, 1888), https://doi.org/10.5962/bhl.title.85258.
-            
+[^ref2]: Parsons & Sons Co. et al., _Descriptive Catalogue of Hardy Ornamental Trees, Flowering Shrubs and Vines : Including Rhododendrons, Roses, Magnolias, Chinese and Ghent Azaleas, Camellias, Japanese Maples and Other Rare and Choice Plants_ (Flushing, N.Y: Parsons & Sons Co, 1888), https://doi.org/10.5962/bhl.title.85258.       
 [^ref3]: McGuire, 19.      
-
-[^ref4]: Peter R. Crane and Ashley DuVal, “766. CERCIDIPHYLLUM MAGNIFICUM: Systematic Placement and Fossil History of Cercidiphyllum Siebold & Zuccarini: Cercidiphyllaceae,” Curtis’s Botanical Magazine 30, no. 3 (2013): 177–92, 177. 
-            
-[^ref5]: Shanshan Zhu et al., “Genomic Insights on the Contribution of Balancing Selection and Local Adaptation to the Long‐term Survival of a Widespread Living Fossil Tree, Cercidiphyllum Japonicum,” New Phytologist 228, no. 5 (December 2020): 1674–89 (1674), https://doi.org/10.1111/nph.16798.   
-            
-[^ref6]: Crane and DuVal, 177.   
-            
-[^ref7]: Nicolas FiÉvÉ, “The Genius Loci of Katsura: Literary Landscapes in Early Modern Japan,” Studies in the History of Gardens & Designed Landscapes 37, no. 2 (April 3, 2017): 134–56 (149), https://doi.org/10.1080/14601176.2016.1239402.
-            
-[^ref8]: Thomas R. H Havens, “Seeking Japanese Plants in Europe and North America” (Honolulu: University of Hawaii Press, 2020), 57–78 (57), https://doi.org/10.1515/9780824883447-005.
-            
-[^ref9]: Ibid., 66.
-            
+[^ref4]: Peter R. Crane and Ashley DuVal, “766. CERCIDIPHYLLUM MAGNIFICUM: Systematic Placement and Fossil History of Cercidiphyllum Siebold & Zuccarini: Cercidiphyllaceae,” Curtis’s Botanical Magazine 30, no. 3 (2013): 177–92, 177.             
+[^ref5]: Shanshan Zhu et al., “Genomic Insights on the Contribution of Balancing Selection and Local Adaptation to the Long‐term Survival of a Widespread Living Fossil Tree, Cercidiphyllum Japonicum,” New Phytologist 228, no. 5 (December 2020): 1674–89 (1674), https://doi.org/10.1111/nph.16798.               
+[^ref6]: Crane and DuVal, 177.               
+[^ref7]: Nicolas FiÉvÉ, “The Genius Loci of Katsura: Literary Landscapes in Early Modern Japan,” Studies in the History of Gardens & Designed Landscapes 37, no. 2 (April 3, 2017): 134–56 (149), https://doi.org/10.1080/14601176.2016.1239402.            
+[^ref8]: Thomas R. H Havens, “Seeking Japanese Plants in Europe and North America” (Honolulu: University of Hawaii Press, 2020), 57–78 (57), https://doi.org/10.1515/9780824883447-005.            
+[^ref9]: Ibid., 66.            
 [^ref10]: Ibid., 67.   
-
-[^ref11]: James Almeida and Thaïsa Way, “Land and Labor: Dumbarton Oaks Prior to 1920,” News Item, Dumbarton Oaks, https://www.doaks.org/newsletter/news-archives/2021/land-and-labor-dumbarton-oaks-prior-to-1920.
-            
-[^ref12]: _Evening star_. (Washington, D.C.), 10 March 1929. _Chronicling America: Historic American Newspapers_. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83045462/1929-03-10/ed-1/seq-88/>
-            
-[^ref13]: “William H. Beckett (U.S. National Park Service)”, https://www.nps.gov/people/william-h-beckett.htm.
-            
-[^ref14]: _The Gardener’s Monthly and Horticulturist_, vol. v.18 (1876) (Philadelphia, Pa: Charles H. Marot, 1876), https://www.biodiversitylibrary.org/item/30501. 54.  
-            
-[^ref15]: Peter Del Tredici, “The Introduction of Japanese Plants Into North America,” The Botanical Review 83, no. 3 (September 2017): 215–52 (228), https://doi.org/10.1007/s12229-017-9184-3.
-           
-[^ref16]: _The Gardener's Monthly_, 54.
-            
-[^ref17]: Del Tredici, 228.
-            
-[^ref18]:  
-            
-[^ref19]: Del Tredici, 234.
-            
-[^ref20]: Kissena Nurseries. and Henry G. Gilbert Nursery and Seed Trade Catalog Collection., Wholesale Catalogue of R.B. Parsons & Co. for Fall of 1874, vol. 1874 (Flushing, Queens Co., N.Y: [Kissena Nurseries], 1874), https://www.biodiversitylibrary.org/item/160584. Page 4.  
-            
-[^ref21]: James Berrall, “Topographical Map of Property Belonging to Robert Woods Bliss, Esq., Washington, D.C.,” 1922, Dumbarton Oaks Garden Archives, https://images.hollis.harvard.edu/primo-explore/viewcomponent/L/HVD_VIA8001614134?vid=HVD_IMAGES&imageId=urn-3:doak.reslib:100070038.
-            
-[^ref22]: I am grateful to Michael S. Dosmann, Keeper of the Living Collection at Arnold Arboretum, for this insight. 
-        
-[^ref23]: John Saul, _Wholesale Catalogue of Fruit, Evergreen and Ornamental Trees Shrubs, Roses, and Greenhouse Plants for the Autumn of 1894 and Spring of 1895_, vol. 1895 (Washington, D.C: John Saul, 1895), https://www.biodiversitylibrary.org/item/134472. Page 11.
-            
-[^ref24]: Interview with Ron Henderson. March 22, 2023.             
+[^ref11]: James Almeida and Thaïsa Way, “Land and Labor: Dumbarton Oaks Prior to 1920,” News Item, Dumbarton Oaks, https://www.doaks.org/newsletter/news-archives/2021/land-and-labor-dumbarton-oaks-prior-to-1920.            
+[^ref12]: _Evening star_. (Washington, D.C.), 10 March 1929. _Chronicling America: Historic American Newspapers_. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83045462/1929-03-10/ed-1/seq-88/>            
+[^ref13]: “William H. Beckett (U.S. National Park Service)”, https://www.nps.gov/people/william-h-beckett.htm.            
+[^ref14]: _The Gardener’s Monthly and Horticulturist_, vol. v.18 (1876) (Philadelphia, Pa: Charles H. Marot, 1876), https://www.biodiversitylibrary.org/item/30501. 54.              
+[^ref15]: Peter Del Tredici, “The Introduction of Japanese Plants Into North America,” The Botanical Review 83, no. 3 (September 2017): 215–52 (228), https://doi.org/10.1007/s12229-017-9184-3.           
+[^ref16]: _The Gardener's Monthly_, 54.            
+[^ref17]: Del Tredici, 228.            
+[^ref18]:              
+[^ref19]: Del Tredici, 234.            
+[^ref20]: Kissena Nurseries. and Henry G. Gilbert Nursery and Seed Trade Catalog Collection., Wholesale Catalogue of R.B. Parsons & Co. for Fall of 1874, vol. 1874 (Flushing, Queens Co., N.Y: [Kissena Nurseries], 1874), https://www.biodiversitylibrary.org/item/160584. Page 4.              
+[^ref21]: James Berrall, “Topographical Map of Property Belonging to Robert Woods Bliss, Esq., Washington, D.C.,” 1922, Dumbarton Oaks Garden Archives, https://images.hollis.harvard.edu/primo-explore/viewcomponent/L/HVD_VIA8001614134?vid=HVD_IMAGES&imageId=urn-3:doak.reslib:100070038.            
+[^ref22]: I am grateful to Michael S. Dosmann, Keeper of the Living Collection at Arnold Arboretum, for this insight.         
+[^ref23]: John Saul, _Wholesale Catalogue of Fruit, Evergreen and Ornamental Trees Shrubs, Roses, and Greenhouse Plants for the Autumn of 1894 and Spring of 1895_, vol. 1895 (Washington, D.C: John Saul, 1895), https://www.biodiversitylibrary.org/item/134472. Page 11.   [^ref24]: Interview with Ron Henderson. March 22, 2023.             
