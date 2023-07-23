@@ -27,15 +27,17 @@ Katsura belongs to the genus <span eid="Q858028">_Cercidiphyllum_</span> and is 
 
 When _Cercidiphyllum japonicum_ sheds its leaves in the fall, its yellow and orange leaves decompose and release the chemical maltol into the air leaving a sweet smell. Farrand accounted for the katsura’s deciduous quality in her design of Dumbarton Oaks' East Lawn, adding plants that brought out its beauty and provided “additional evergreen screen” when the tree had no leaves.[^ref4] You can find flowers on the katsura in the springtime, though they do not have much ornamental value since they do not have petals. Katsura is a dioecious tree, meaning that individual trees produce either  male or female flowers. The male flowers are purple-red while the female flowers are yellow-green. Dumbarton Oaks’ katsura is a male—one slight sway in the tree’s branches and pollen flies all over. 
 <param ve-image
-       label="_Cercidiphyllum obtritum_ leaf."
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Cercidiphyllum_obtritum_SRIC_SR_02-04-03_A_img1.jpg">
-<param ve-plant-specimen eid="Q526549"
-       max="2">
-
+       label="Dumbarton Oak's katsura tree in the fall showcasing its red leaves."
+       url="https://www.doaks.org/newsletter/news-archives/2016/a-poem-for-dumbarton-oaks-during-wartime/@@download/image/katsura-tree.jpg">
 
 ### A Living Fossil (~80MYA)
 
 _Cercidiphyllum_ is an ancient genus. Fossil plants resembling _Cercidiphyllum_ leaves appeared in the mid-<span eid="Q44626">Cretaceous</span> period. It was widespread in the Northern Hemisphere during the Late Cretaceous and Early Cenozoic periods.[^ref5] For the most part, _Cercidiphyllum_ has remained largely unchanged—we might even call it a <span eid="Q187419">living fossil</span>. Charles Darwin coined the term "living fossils" to refer to species that have survived for millions of years with little morphological change. Aside from changing very little over long periods of time, they also have distribution <span eid="Q4257161">ranges</span> that are more restricted than in the geologic past. This is to say that these plants can be found in the geological records across many places, though today they are generally locally existing to a smaller range.[^ref6] During the later Cenozoic period, _Cercidyphullum_ experienced regional extinction and its range is now restricted to East Asia.[^ref7] Today, the plant is grown widely across the regions in which it was originally extinct as an ornamental, returning to where it once grew millions of years ago.
+<param ve-image
+       label="Cercidiphyllum obtritum leaf."
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Cercidiphyllum_obtritum_SRIC_SR_02-04-03_A_img1.jpg">
+<param ve-plant-specimen eid="Q526549"
+       max="2">
 
 ### Poetic Traditions Inspire Imperial Villa (17C)
 
@@ -60,9 +62,7 @@ Dumbarton Oaks’ katsura was thought to have been planted under Linthicum. The 
 ### Thomas Hogg Jr. Introduces Katsura to the United States (1860s-1870s)
 
 <span eid="Q21515943">Thomas Hogg Jr.</span>, whose father established one of New York City’s first nurseries, takes credit for introducing katsura. In an 1879 letter to _The Gardener’s Monthly and Horticulturalist_, Hogg Jr. denied botanist <span eid="Q1066128">Charles Sprague Sargent’s</span> claim that agricultural scientist <span eid="Q901202">William S. Clark</span> introduced katsura to the United States.[^ref15] President Abraham Lincoln appointed Hogg Jr. to the Japanese Consulate in Kanagawa in 1862. Hogg Jr. during his post, which he occupied until 1869, sent his brother James Hogg seeds of Japanese flora. He grew the plants his brother sent him in a private garden.[^ref16] In reference to Sargent visiting James’ garden after Thomas returned from his post in Japan, Hogg Jr. remarked that “it seems incredible that so remarkable a plant could have escaped the notice of so enthusiastic an admirer of trees.”[^ref17] 
-<param ve-image 
-       label="f"
-       url="https://www.biodiversitylibrary.org/item/30501">
+<param ve-iframe src="https://www.biodiversitylibrary.org/page/6798282">
 
 Although Linthicum and Peirce are contemporaries of the Hogg brothers, Dumbarton Oaks’ katsura probably was not planted during the 1860s. Hogg Jr. introduced katsura to North America in either 1864 or 1865, and his brother James closed their family <span eid="Q155511">nursery</span> in 1867.[^ref18] James would not have been able to sell katsura at a commercial scale since knowledge of propagating and growing Japanese plants was scarce at the time. In fact, this article notes how “… probably because it was some years after its introduction before our nurserymen discovered how to propagate it rapidly by green cuttings, and seeds were difficult to obtain.”[^ref19] It was, for this reason, Hogg Jr. sent Samuel B. Parsons, another <span eid="Q1058775">Flushing</span> nurseryman, katsura seeds during his second trip to Japan in the 1870s since he had experience with propagating and growing Japanese plants.[^ref20] Parsons began to sell katsura in 1874 at one foot tall.[^ref21] Linthicum and Peirce also died in 1869, leaving a four or five-year span in which the two could have acquired the tree from the Hogg brothers. The Blount family, who introduced boxwood into the garden, bought the property in 1891 are the most likely candidates for having planted the katsura.
 <param ve-iframe src="https://archive.org/embed/gardenersmonthly181876phil/page/256/">
@@ -86,10 +86,10 @@ _Hoozue_ tends to be single poles with a cross piece at the top, resembling a <s
 
 ### Conclusion 
 
-One tree’s story opens a web of different stories. Old trees, much like Dumbarton Oaks' katsura, are contemporaneous with historic events. And by telling their story we see how the around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our culture is influenced by our interaction with them. Despite <span eid="Q60772055">plant blindness</span> associated with a society distant from them, they are nonetheless central to our lives. Historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States' nation-building from the colonial period to today. If we calibrate our attention to the temporal and spatial scales of trees, we get a complicated history of a tree across different times and places. It also complicates the notion of a historic garden, in particular, the one at Dumbarton Oaks. It is a historic garden designed by Beatrix Farrand—historic in the sense that yes, Farrand designed a beautiful garden, but also historic in the sense that the land in which she laid out her vision had a particular history that superseded her. The landscape was not a _tabula rasa_, an empty land upon which Farrand then engraved her design. The katsura is a case in point in how landscapes are constantly changing, and the various organisms that live on them change. But perhaps more interestingly is the power of trees: we move them across seas for their beauty-and unknowingly plant them where their ancestors once sat before. 
-<param ve-image
-       label=""
-       url="">
+Old trees, much like Dumbarton Oaks' katsura, are contemporaneous with historic events. And by telling their story we see how the around them has changed and stayed the same. But trees are more than just narrative devices: we name places after trees and our culture is influenced by our interaction with them. Despite <span eid="Q60772055">plant blindness</span> associated with a society distant from them, they are nonetheless central to our lives. Historian Eric Rutkow’s book _American Canopy: Trees, Forests, and the Making of a Nation_ illustrates the importance of trees in the United States' nation-building from the colonial period to today. If we calibrate our attention to the temporal and spatial scales of trees, we get a complicated history of a tree across different times and places. It also complicates the notion of a historic garden, in particular, the one at Dumbarton Oaks. It is a historic garden designed by Beatrix Farrand—historic in the sense that yes, Farrand designed a beautiful garden, but also historic in the sense that the land in which she laid out her vision had a particular history that superseded her. The landscape was not a _tabula rasa_, an empty land upon which Farrand then engraved her design. The katsura is a case in point in how landscapes are constantly changing, and the various organisms that live on them change. But perhaps more interestingly is the power of trees: we move them across seas for their beauty-and unknowingly plant them where their ancestors once sat before. 
+<param ve-compare sync region="full" title="ARCHIVAL IMAGE" manifest="">
+<param ve-compare manifest="https://iiif.io/guides/guides/archive.org/">
+<param ve-iframe src="https://archive.org/details/mcguire-beatrix-farrands-plant-book-for-dumbarton-oaks/page/21/">
 
 # References
 [^ref1]: Diane Kostial McGuire, ed.,  _Beatrix Farrand’s Plant Book for Dumbarton Oaks_ (Washington, DC: Dumbarton Oaks, Trustees for Harvard University, 1980): 19. 
@@ -120,7 +120,7 @@ One tree’s story opens a web of different stories. Old trees, much like Dumbar
 
 [^ref14]: “William H. Beckett (U.S. National Park Service)”, https://www.nps.gov/people/william-h-beckett.htm.            
 
-[^ref15]: _The Gardener’s Monthly and Horticulturist_, vol. v.18 (1876) (Philadelphia, Pa: Charles H. Marot, 1876), https://www.biodiversitylibrary.org/item/30501. 54.              
+[^ref15]: _The Gardener’s Monthly and Horticulturist_, vol. 21 (Philadelphia, Pa: Charles H. Marot, 1879), https://www.biodiversitylibrary.org/item/30894. 54.              
 
 [^ref16]: Peter Del Tredici, “The Introduction of Japanese Plants Into North America,” The Botanical Review 83, no. 3 (September 2017): 228, https://doi.org/10.1007/s12229-017-9184-3.           
 
