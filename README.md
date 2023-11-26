@@ -62,8 +62,6 @@ Dumbarton Oaks’ katsura was thought to have been planted under Linthicum. The 
        
 ### Thomas Hogg Jr. Introduces Katsura to the United States (1860s-1870s)
 
-### Thomas Hogg Jr. Introduces Katsura to the United States (1860s-1870s)
-
 <span eid="Q21515943">Thomas Hogg Jr.</span>, whose father established one of New York City’s first nurseries, takes credit for introducing katsura. In an 1879 letter to _The Gardener’s Monthly and Horticulturalist_, Hogg Jr. denied botanist <span eid="Q1066128">Charles Sprague Sargent’s</span> claim that agricultural scientist <span eid="Q901202">William S. Clark</span> introduced katsura to the United States.[^ref17] President Abraham Lincoln appointed Hogg Jr. to the Japanese Consulate in Kanagawa in 1862. Hogg Jr. during his post, which he occupied until 1869, sent his brother James Hogg seeds of Japanese flora. He grew the plants his brother sent him in a private garden.[^ref18] In reference to Sargent visiting James’ garden after Thomas returned from his post in Japan, Hogg Jr. remarked that “it seems incredible that so remarkable a plant could have escaped the notice of so enthusiastic an admirer of trees.”[^ref19] 
 <param ve-iframe src="https://archive.org/embed/gardenersmonthly21meeh/page/53">
 
@@ -86,8 +84,6 @@ _Hoozue_ tends to be single poles with a cross piece at the top, resembling a <s
 <param ve-image
        label="Left to right: single pole hoozue, bridge hoozue, and heavy support hoozue"
        url="https://github.com/abneralda/katsura/blob/main/hoozue.jpeg?raw=true">
-
-### Conclusion 
 
 ### Conclusion 
 
