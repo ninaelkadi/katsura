@@ -43,10 +43,6 @@ The awe-inspiring and ornamental qualities of trees have inspired artistic pursu
 <param ve-image
        label="The Geppa-Rō."
        url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Geppa-ro.jpg">
-       
-### Western Desire for Japanese Flora (19C)
-
-A craze for trees and flowering plants from East Asia began in the mid-17th century, increased in the 18th and 19th centuries, and plateaued in the early 20th century. The desire for Eastern Asian flora was because of imperial botany, the "quest to bring the world’s vegetation home for the delectation of the overseers of empire”.[^ref9] Wealthy east coast Americans, too, sought out East Asian flora in the nineteenth century. By the mid-nineteenth century, the United States experienced an interest in trees and shrubs.[^ref10] Edward Magruder Linthicum, who owned Dumbarton Oaks between 1846 and 1869, too followed this horticultural interest amid the American horticultural boom of the mid-nineteenth century.  
 
 In Japanese mythology and folklore, katsura links the heavens and the Earth. One myth tells the story of the moon god Tsukuyomi's descent upon Earth and his visit to the goddess of food, Ukemochi. She prepares dinner for him by spitting out boiled rice, seafood, and game. Tsukuyomi, out of of disgust, murders the goddess. Ukemochi's dead body then becomes the Earth's food; her limbs generate foodstuffs such as rice, red beans, and soya grains, and it is through her death human life becomes possible. The _Yamashiro no kuni fudoki_ (‘Annals of Yamashiro Province’), an eigth-century compilation of traditions in Yamashiro province, tells a similiar version of the tale, but specifies that Tsukuyomi manifested as a katsura tree when he met Ukemochi. The katsura's sweet bark smell, often described as cinnamon, attracted Tsukuyomi to the tree. The compiled annals add that Katsura Village, now a neighborhood in modern-day Kyoto, is home to the tree where the moon god descended upon the Earth.[^ref10]
 
