@@ -61,7 +61,7 @@ Dumbarton Oak’s katsura may be the result of the growth of trade of Asian flor
 It was once thought that Dumbarton Oaks’ katsura was planted by Edward Linthicum, a local hardware store merchant (at what is today Wisconsin Avenue and M Street), primarily because he established the property’s gardens and had a business relationship with Joshua Peirce’s Linnaean Hill Nursery in Rock Creek Park. Peirce sold fruit and ornamental trees grown by persons he <span eid="Q12773225">enslaved</span>—in fact, he named William Beckett an invaluable part of his business in a petition for compensated emancipation under the <span eid="Q5283407">District of Columbia Emancipation Act</span>.[^ref14] In 1848, Linthicum hired J.H. Small, a renowned English gardener, to design the gardens of what was then called the Oaks, with the labor of enslaved individuals.[^ref15] [^ref16] Further research into the introduction of katsura into the United States, however, undermines Linthicum’s role in planting the tree at the Oaks.
 <param ve-image
        label="Clipping of a newspaper showing a Peirce ad. The Madisonian.(Washington City [i.e. Washington, D.C.]), 25 March 1841. Chronicling America: Historic American Newspapers. Lib. of Congress."
-       url="https://github.com/abneralda/katsura/blob/main/Pierce.png">
+       url="https://github.com/abneralda/katsura/blob/main/Pierce.png?raw=true">
        
 ### Thomas Hogg Jr. Introduces Katsura to the United States
 
