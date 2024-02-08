@@ -45,6 +45,9 @@ The awe-inspiring and ornamental qualities of trees have inspired artistic pursu
        url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Geppa-ro.jpg">
 
 In Japanese mythology and folklore, the katsura links the heavens and the Earth. One myth tells the story of the descent of the moon god Tsukuyomi to Earth and his visit to the goddess of food, Ukemochi. She prepares dinner for him by spitting out boiled rice, seafood, and game. Disgusted, Tsukuyomi murders Ukemochi and body becomes the Earth's food; her limbs generate foodstuffs such as rice, red beans, and soya grains—it is through her death that human life becomes possible. The _Yamashiro no kuni fudoki_ (‘Annals of Yamashiro Province’), an eigth-century compilation of traditions in Yamashiro province, tells a similiar version of the tale, but specifies that Tsukuyomi manifested as a katsura tree when he met Ukemochi. The katsura's sweet bark smell, often described as like cinnamon, attracted Tsukuyomi to the tree. The Annals add that Katsura Village, now a neighborhood in modern-day Kyoto, is home to the tree where the moon god descended upon the Earth.[^ref10]
+<param ve-image
+       label="An image of the god, Tsukuyomi."
+       url="[https://upload.wikimedia.org/wikipedia/commons/1/1d/Geppa-ro.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shinto-Tsukuyomi-no-Mikoto-Old-Artwork.png/710px-Shinto-Tsukuyomi-no-Mikoto-Old-Artwork.png?20210104130149)">
 
 ### Western Desire for Japanese Flora
 
@@ -57,8 +60,8 @@ Dumbarton Oak’s katsura may be the result of the growth of trade of Asian flor
 
 It was once thought that Dumbarton Oaks’ katsura was planted by Edward Linthicum, a local hardware store merchant (at what is today Wisconsin Avenue and M Street), primarily because he established the property’s gardens and had a business relationship with Joshua Peirce’s Linnaean Hill Nursery in Rock Creek Park. Peirce sold fruit and ornamental trees grown by persons he <span eid="Q12773225">enslaved</span>—in fact, he named William Beckett an invaluable part of his business in a petition for compensated emancipation under the <span eid="Q5283407">District of Columbia Emancipation Act</span>.[^ref14] In 1848, Linthicum hired J.H. Small, a renowned English gardener, to design the gardens of what was then called the Oaks, with the labor of enslaved individuals.[^ref15] [^ref16] Further research into the introduction of katsura into the United States, however, undermines Linthicum’s role in planting the tree at the Oaks.
 <param ve-image
-       label="Clipping of a newspaper showing Peirce ad."
-       url="https://chroniclingamerica.loc.gov/lccn/sn82015015/1841-03-25/ed-1/seq-3">
+       label="Clipping of a newspaper showing a Peirce ad. The Madisonian.(Washington City [i.e. Washington, D.C.]), 25 March 1841. Chronicling America: Historic American Newspapers. Lib. of Congress."
+       url="https://github.com/abneralda/katsura/blob/main/Pierce.png">
        
 ### Thomas Hogg Jr. Introduces Katsura to the United States
 
