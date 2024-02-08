@@ -47,7 +47,7 @@ The awe-inspiring and ornamental qualities of trees have inspired artistic pursu
 In Japanese mythology and folklore, the katsura links the heavens and the Earth. One myth tells the story of the descent of the moon god Tsukuyomi to Earth and his visit to the goddess of food, Ukemochi. She prepares dinner for him by spitting out boiled rice, seafood, and game. Disgusted, Tsukuyomi murders Ukemochi and body becomes the Earth's food; her limbs generate foodstuffs such as rice, red beans, and soya grains—it is through her death that human life becomes possible. The _Yamashiro no kuni fudoki_ (‘Annals of Yamashiro Province’), an eigth-century compilation of traditions in Yamashiro province, tells a similiar version of the tale, but specifies that Tsukuyomi manifested as a katsura tree when he met Ukemochi. The katsura's sweet bark smell, often described as like cinnamon, attracted Tsukuyomi to the tree. The Annals add that Katsura Village, now a neighborhood in modern-day Kyoto, is home to the tree where the moon god descended upon the Earth.[^ref10]
 <param ve-image
        label="An image of the god, Tsukuyomi."
-       url="[https://upload.wikimedia.org/wikipedia/commons/1/1d/Geppa-ro.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shinto-Tsukuyomi-no-Mikoto-Old-Artwork.png/710px-Shinto-Tsukuyomi-no-Mikoto-Old-Artwork.png?20210104130149)">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shinto-Tsukuyomi-no-Mikoto-Old-Artwork.png/710px-Shinto-Tsukuyomi-no-Mikoto-Old-Artwork.png?20210104130149">
 
 ### Western Desire for Japanese Flora
 
